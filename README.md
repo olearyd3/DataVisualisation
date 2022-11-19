@@ -9,6 +9,8 @@ graphical elements is optimized for the chart and related elements (such as capt
 
 ## Assignment 1.3:
 
+Note: This is called Assignment3 above^
+
 Part 1. Visualize the evolution of life expectancy over the years:
 
 Encode year by x-position, and life-expectancy by y-position. Then create 3 variants of the chart, encoding the categorical attribute continent using any 3
