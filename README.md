@@ -3,8 +3,15 @@ This repository contains assignments done for my Data Visualisation module in Tr
 
 ## Assignment 1.2:
 
-OBJECTIVE: Recreate Minard’s visualization of Napolean’s Russian Campaign using graphical programming. Your visualization MUST show (a) position of cities and path of army through them, (b) survivors in the army along the path, (c)
-temperature during retreat. Your final output should be in the form of a mini-poster that may be printed out at A4 size; you should try to ensure that the choice of
+OBJECTIVE: Recreate Minard’s visualization of Napolean’s Russian Campaign using graphical programming. Your visualization MUST show 
+
+(a) position of cities and path of army through them
+
+(b) survivors in the army along the path
+
+(c) temperature during retreat
+
+Your final output should be in the form of a mini-poster that may be printed out at A4 size; you should try to ensure that the choice of
 graphical elements is optimized for the chart and related elements (such as captions) to be legible at this size
 
 ## Assignment 1.3:
